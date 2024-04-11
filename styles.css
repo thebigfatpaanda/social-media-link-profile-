@@ -1,0 +1,145 @@
+body{
+    background-color:rgb(19, 18, 18);
+    color:white;
+}
+
+
+#div2{
+    width:350px;
+    height:580px;
+    background-color: #1f1f1f;
+    border-radius:10px;
+    position:relative;
+    top:30px;
+    display:flex;
+    justify-content:center;
+    margin-left:auto;
+    margin-right:auto;
+    
+   
+}
+img{
+    width:90px;
+    height:90px;
+    border-radius:100px;
+    position:relative;
+    top:40px;
+}
+#div2 h1{
+    color: hsl(75, 94%, 57%);
+
+    font-size:x-large;
+    position:absolute;
+    top:140px;
+    font-family:inter;
+}
+#div2 h5{
+    position:absolute;
+    top:170px;
+    font-family:inter;
+}
+#div2 h6{
+    position:absolute;
+    top:210px;
+    font-family:inter;
+    font-size:11px;
+    font-weight: 400;
+}
+#div3{
+    width:260px;
+    height:40px;
+    background-color:rgb(51,51,51);
+    position:absolute;
+    top:290px;
+    border-radius:10px;
+    color:rgb(255, 255, 255);
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    font-family:inter;
+    font-size:11px;
+}   
+#div4{
+    width:260px;
+    height:40px;
+    background-color:rgb(51,51,51);
+    position:absolute;
+    top:345px;
+    border-radius:10px;
+    color:rgb(255, 255, 255);
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    font-family:inter;
+    font-size:11px;
+}
+#div5{
+    width:260px;
+    height:40px;
+    background-color:rgb(51,51,51);
+    position:absolute;
+    top:400px;
+    border-radius:10px;
+    color:rgb(255, 255, 255);
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    font-family:inter;
+    font-size:11px;
+}
+#div6{
+    width:260px;
+    height:40px;
+    background-color:rgb(51,51,51);
+    position:absolute;
+    top:455px;
+    border-radius:10px;
+    color:rgb(255, 255, 255);
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    font-family:inter;
+    font-size:11px;
+}
+
+#div7{
+    width:260px;
+    height:40px;
+    background-color:rgb(51,51,51);
+    position:absolute;
+    top:510px;
+    border-radius:10px;
+    color:rgb(255, 255, 255);
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    font-family:inter;
+    font-size:11px;
+}
+
+
+#div3:hover{
+    background-color: hsl(75, 94%, 57%);
+    color:black;
+    transition:0.5s;
+}
+#div4:hover{
+    background-color: hsl(75, 94%, 57%);
+    color:black;
+    transition:0.5s;
+}
+#div5:hover{
+    background-color: hsl(75, 94%, 57%);
+    color:black;
+    transition:0.5s;
+}
+#div6:hover{
+    background-color: hsl(75, 94%, 57%);
+    color:black;
+    transition:0.5s;
+}
+#div7:hover{
+    background-color: hsl(75, 94%, 57%);
+    color:black;
+    transition:0.5s;
+}
